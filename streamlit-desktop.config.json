@@ -1,0 +1,9 @@
+
+{
+  "entrypoint": "main.py",
+  "name": "ElectrificationApp",
+  "icon": "icon.icns",
+  "width": 1024,
+  "height": 768,
+  "singleInstance": true
+}
